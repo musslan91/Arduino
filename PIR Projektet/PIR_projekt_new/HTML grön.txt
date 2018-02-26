@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body bgcolor="#00cc00">
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br></br>
+<h1><center><font color="FFFFFF"><font size = 48>Ledig</center></h1>
+
+</body>
+</html>
